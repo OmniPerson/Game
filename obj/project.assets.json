@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {}
+    "C:\\Users\\ginth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proiecte\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\ginth\\Documents\\GitHub\\Game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Proiecte\\Game\\Game.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Proiecte\\Game\\obj\\",
+      "projectPath": "C:\\Users\\ginth\\Documents\\GitHub\\Game\\Game.csproj",
+      "packagesPath": "C:\\Users\\ginth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ginth\\Documents\\GitHub\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ginth\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

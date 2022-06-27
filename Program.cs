@@ -4,10 +4,10 @@
     {
         static void Main (string[] args)
         {
-            Console.Write("What is your name? ");
+            Console.Write("What's your name fool? ");
             var name = Console.ReadLine();
             //todo:Refactor php project into c#
-            Console.WriteLine($"Hello {name}");
+            Console.WriteLine($"What's popping {name}");
         }
     }
 }
