@@ -1,5 +1,5 @@
-namespace Game.Interfaces;
-
-interface CanLoot {
-  
+namespace Game.Interfaces
+{
+        interface CanLoot {}
+    
 }

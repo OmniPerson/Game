@@ -1,5 +1,7 @@
-namespace Game.Interfaces;
-
-interface CanHeal {
+namespace Game.Interfaces
+{
+    interface CanHeal {
     int Heal { get; }
 }
+}
+

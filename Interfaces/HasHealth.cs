@@ -1,12 +1,13 @@
-namespace Game.Interfaces;
+namespace Game.Interfaces
+{
+    interface HasHealth {
+        int Health { get;set; }
 
-interface HasHealth {
-    int Health { get;set; }
+        int MaxHealth { get; }
 
-    int maxHealth { get; }
+        bool IsDead { get; } 
 
-    bool isDead { get; } 
+        bool IsAlive { get; } 
 
-    bool isAlive { get; } 
-
+    }
 }

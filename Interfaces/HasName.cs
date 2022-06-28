@@ -1,6 +1,7 @@
-namespace Game.Interfaces;
+namespace Game.Interfaces
+{
+    interface HasName {
 
-interface HasName {
-
-    string Name { get; }
+        string Name { get; }
+    }
 }

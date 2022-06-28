@@ -1,3 +1,4 @@
-namespace Game.Interfaces;
-
-interface HasLoot {}
+namespace Game.Interfaces
+{
+    interface HasLoot {}
+}

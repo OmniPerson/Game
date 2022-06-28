@@ -1,5 +1,7 @@
-namespace Game.Interfaces;
+namespace Game.Interfaces
+{
 
-interface CanCombat {
-    int Damage { get; }
+    interface CanCombat {
+        int Damage { get; }
+    }
 }
