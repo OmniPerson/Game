@@ -10,7 +10,7 @@ namespace Game
 
         public bool IsDead { get => Health <= 0; }
 
-        public bool IsAlive {get=> Health > 0;}
+        public bool IsAlive {get => Health > 0;}
 
         public string Name {get;}
 
